@@ -1,5 +1,6 @@
 package Practica2;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 
@@ -7,7 +8,7 @@ import java.util.Scanner;
 
 public class Zoo {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ClassNotFoundException, IOException {
 		
 		Scanner sc = new Scanner (System.in);
 				
@@ -15,7 +16,7 @@ public class Zoo {
 		String numeroAnimal;
 		String codigoAnimal="";
 		
-		String parentPath = "";
+		String parentPath = "/home/47767573t";
 		
 		boolean salir = false;
 		boolean valido = false;
@@ -33,15 +34,15 @@ public class Zoo {
 				
 				valido = (Animal.esCodigoValido(codigoAnimal));
 				
-				if (valido == false) System.out.println("codigo incorrecto!");				
+				if (valido == false) System.out.println("codigo incorrecto! hint:(EX,EW,CR,EN,VU,NT o LC)");				
 			}
-			System.out.println("codigo incorrecto!");
 			
 			Animal a = new Animal (nombreAnimal, numeroAnimal, codigoAnimal);
+			Enjaular.guardar(a,parentPath);
+			System.out.println(a.getNombre()+ " está encerrado!");
 			
+			salir = true;
 		}
-		
-		
 		
 		
 		
