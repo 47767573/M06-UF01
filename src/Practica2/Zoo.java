@@ -39,7 +39,7 @@ public class Zoo {
 			
 			Animal a = new Animal (nombreAnimal, numeroAnimal, codigoAnimal);
 			Enjaular.guardar(a,parentPath);
-			System.out.println(a.getNombre()+ " está encerrado!");
+			System.out.println(a.getNombre()+ " esta encerrado!");
 			
 			salir = true;
 		}
