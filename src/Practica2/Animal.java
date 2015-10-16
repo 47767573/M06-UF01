@@ -43,7 +43,7 @@ public class Animal implements Serializable{
 		return codi;
 	}
 	
-	//{"EX","EW","CR","EN","VU","NT","LC"};
+
 	public static boolean esCodigoValido (String codigos){
 		String codigo = codigos.toLowerCase();
 		if (codigo.equals("ex")) return true; 			//Extinto
@@ -60,7 +60,9 @@ public class Animal implements Serializable{
 		if (resultado == false) System.out.println("incorrecto!"); 		
 	}
 
-	
+	public String toString() {
+		return nombre+" "+numero+" "+codi;		
+	}
 	
 
 }

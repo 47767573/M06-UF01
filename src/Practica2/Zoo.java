@@ -38,6 +38,11 @@ public class Zoo {
 			System.out.println("codigo incorrecto!");
 			
 			Animal a = new Animal (nombreAnimal, numeroAnimal, codigoAnimal);
+<<<<<<< HEAD
+=======
+			Enjaular.guardar(a,parentPath);
+			System.out.println(a.getNombre()+ " esta encerrado!");
+>>>>>>> db26118b9303c9c649bb7b8c4d2073c7cf860827
 			
 		}
 		
