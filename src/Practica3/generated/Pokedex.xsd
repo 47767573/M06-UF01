@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Pokedex">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Pokemon" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Nombre" type="xs:string"></xs:element>
+							<xs:element name="Classe" type="xs:string"></xs:element>
+							<xs:element name="PV" type="xs:int"></xs:element>
+							<xs:element name="Ataque1" type="xs:string"></xs:element>
+							<xs:element name="Ataque2" type="xs:string"></xs:element>
+							<xs:element name="Etapa" type="xs:string"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+ 
