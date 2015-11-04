@@ -1,13 +1,8 @@
 package Practica2;
 
-import java.io.File;
+import java.io.*;
 
-<<<<<<< HEAD
-public class Enjaular {
-	
-	public void guardar (Animal a, String path){	
-		
-=======
+
 public class Enjaular {	
 	
 	static Animal pet = new Animal();
@@ -34,7 +29,6 @@ public class Enjaular {
 		}catch (IOException e2){
 			e2.printStackTrace();
 		}		
->>>>>>> db26118b9303c9c649bb7b8c4d2073c7cf860827
 	}
 	
 	public void guardar (Animal a, File fichero) throws IOException, FileNotFoundException{	

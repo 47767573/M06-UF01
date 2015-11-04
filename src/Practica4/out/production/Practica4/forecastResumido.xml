@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElTiempo>
+    <Ciudad>Barcelona</Ciudad>
+    <Meteorologia>
+        <Tiempo fechaHora="2015-10-19T21:00:00">
+            <Estado nombre="Poco nublado"/>
+            <Viento Celsius="17" kph="14.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T00:00:00">
+            <Estado nombre="Medianamente nublado"/>
+            <Viento Celsius="16.86" kph="14.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T03:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="16.92" kph="14.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T06:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="16.77" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T09:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="16.95" kph="16.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T12:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="17.14" kph="17.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T15:00:00">
+            <Estado nombre="Muy Nublado"/>
+            <Viento Celsius="17.26" kph="18.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T18:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="17.17" kph="21.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-20T21:00:00">
+            <Estado nombre="Nublado"/>
+            <Viento Celsius="16.91" kph="17.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T00:00:00">
+            <Estado nombre="Muy Nublado"/>
+            <Viento Celsius="16.27" kph="9.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T03:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="15.95" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T06:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="15.23" kph="5.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T09:00:00">
+            <Estado nombre="lluvia ligera"/>
+            <Viento Celsius="16.56" kph="7.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T12:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="17.92" kph="5.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T15:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="18.2" kph="16.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T18:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="17.32" kph="16.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-21T21:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="15.91" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T00:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="15.45" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T03:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="14.87" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T06:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="13.87" kph="11.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T09:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="16.56" kph="9.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T12:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="19.2" kph="9.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T15:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="19.96" kph="7.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T18:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="17.68" kph="10.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-22T21:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="16.54" kph="5.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T00:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="16.03" kph="4.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T03:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="15.48" kph="6.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T06:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="15.06" kph="8.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T09:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="18.46" kph="8.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T12:00:00">
+            <Estado nombre="Poco nublado"/>
+            <Viento Celsius="20.43" kph="11.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T15:00:00">
+            <Estado nombre="Poco nublado"/>
+            <Viento Celsius="20.16" kph="18.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T18:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="18.34" kph="18.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-23T21:00:00">
+            <Estado nombre="Nublado"/>
+            <Viento Celsius="17.33" kph="18.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T00:00:00">
+            <Estado nombre="Medianamente nublado"/>
+            <Viento Celsius="16.9" kph="12.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T03:00:00">
+            <Estado nombre="Poco nublado"/>
+            <Viento Celsius="16.33" kph="8.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T06:00:00">
+            <Estado nombre="Medianamente nublado"/>
+            <Viento Celsius="16.07" kph="8.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T09:00:00">
+            <Estado nombre="Muy Nublado"/>
+            <Viento Celsius="17.38" kph="14.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T12:00:00">
+            <Estado nombre="Poco nublado"/>
+            <Viento Celsius="18.89" kph="11.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T15:00:00">
+            <Estado nombre="Cielo claro"/>
+            <Viento Celsius="18.85" kph="13.0"/>
+            <Temperatura/>
+        </Tiempo>
+        <Tiempo fechaHora="2015-10-24T18:00:00">
+            <Estado nombre="Nublado"/>
+            <Viento Celsius="17.1" kph="10.0"/>
+            <Temperatura/>
+        </Tiempo>
+    </Meteorologia>
+</ElTiempo>
